@@ -1,0 +1,7 @@
+{
+  "name": "BrandBear - Premium Apparel",
+  "description": "A high-end e-commerce platform for BrandBear, featuring premium classic outfits and modern streetwear with an AI-powered personal stylist assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
